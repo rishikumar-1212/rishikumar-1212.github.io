@@ -1,1 +1,1 @@
-# rishikumar-1212.gituhub.io
+# rishikumar-1212.github.io
